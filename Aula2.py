@@ -60,7 +60,7 @@ divisao = numero1/numero2
 # Imprimam a resposta da seguinte forma:
 # "Ola, fulano. Você nasceu no dia xx de xx de xxxx."
 
-nome = int(input("Digite seu nome: "))
+nome = int(input("Digit seu nome:"))
 dia = int(input("Digite o dia de nascimento: "))
 mes = int(input("Digite mes de nascimento: "))
 ano = int(input("Digite ano de nascimento: "))

@@ -84,5 +84,13 @@ x = True
 x1 = not x
 print(x1)
 
+# Passo a Passo
+
+"""
+O = é para atribuição
+Int - é para numeros inteiros
+Float - numeros quebrados
+Input - Serve para impultar o programa
+C: Os dois pontos servem para dar ponto final
 
 
